@@ -1,0 +1,9 @@
+Cachai Audiovisual — página web scroll
+
+1. Abre index.html en tu navegador.
+2. Para subirla a Netlify, arrastra la carpeta completa o publícala desde GitHub.
+3. Reemplaza las imágenes remotas de Unsplash por fotografías reales en styles.css.
+4. El espacio REEL es visual: agrega el iframe del video real en index.html.
+5. WhatsApp, teléfono y correo fueron tomados de la imagen de referencia; comprueba que estén vigentes.
+6. Actualiza los enlaces de redes sociales por los perfiles verdaderos.
+7. Los logos de clientes son recreaciones tipográficas de demostración, no archivos originales.
